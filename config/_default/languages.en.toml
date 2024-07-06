@@ -1,0 +1,23 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "MrSom3body"
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+dateFormat = "2 January 2006"
+description = "MrSom3body's little world"
+
+[author]
+name = "MrSom3body"
+image = "https://github.com/MrSom3body.png"
+headline = "a random dude on the internet"
+bio = "A passionate programmer with great interest in Linux."
+links = [
+  { github = "https://github.com/MrSom3body" },
+  { instagram = "https://instagram.com/karun.snd" },
+  { linkedin = "https://www.linkedin.com/in/karun-sandhu/" },
+  { mastodon = "https://mastodon.social/@MrSom3body" },
+]

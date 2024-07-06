@@ -1,0 +1,9 @@
+@font-face {
+  font-family: font;
+  src: url("/fonts/FiraCode-VF.ttf");
+}
+
+html {
+  font-family: font;
+  font-size: 1em;
+}
