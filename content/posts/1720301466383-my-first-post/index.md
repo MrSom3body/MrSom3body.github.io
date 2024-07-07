@@ -1,7 +1,7 @@
 ---
 title: "My first post"
 date: 2024-07-07
-draft: false
+draft: true
 description: "my first blog post!"
 summary: "my first blog post!"
 tags: ["welcome"]
