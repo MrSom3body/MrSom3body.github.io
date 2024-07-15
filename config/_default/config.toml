@@ -40,9 +40,9 @@ toLower = false
 name = "tags"
 weight = 100
 
-[[related.indices]]
-name = "categories"
-weight = 100
+# [[related.indices]]
+# name = "categories"
+# weight = 100
 
 [[related.indices]]
 name = "series"
