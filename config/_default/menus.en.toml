@@ -22,7 +22,7 @@ weight = 2
 
 [[main]]
 name = "blog"
-pageRef = "posts"
+pageRef = "blog"
 weight = 3
 
 [[main]]

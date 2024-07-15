@@ -13,7 +13,7 @@ autoSwitchAppearance = false
 enableSearch = true
 enableCodeCopy = true
 
-mainSections = ["posts"]
+mainSections = ["blog"]
 robots = "all"
 
 disableImageOptimization = false
@@ -42,7 +42,7 @@ homepageImage = "img/background.png" # used in: hero and card
 showRecent = true
 showRecentItems = 6
 showMoreLink = true
-showMoreLinkDest = "/posts"
+showMoreLinkDest = "/blog"
 cardView = true
 cardViewScreenWidth = false
 layoutBackgroundBlur = true
