@@ -39,9 +39,10 @@ showScrollToTop = true
 [homepage]
 layout = "background"
 homepageImage = "img/background.png" # used in: hero and card
-showRecent = true
+# TODO add blog and enable show more link
+showRecent = false
 showRecentItems = 6
-showMoreLink = true
+showMoreLink = false
 showMoreLinkDest = "/blog"
 cardView = true
 cardViewScreenWidth = false

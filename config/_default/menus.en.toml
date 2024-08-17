@@ -20,10 +20,11 @@ name = "resume"
 pageRef = "resume"
 weight = 2
 
-[[main]]
-name = "blog"
-pageRef = "blog"
-weight = 3
+# TODO add blog and enable show more link
+# [[main]]
+# name = "blog"
+# pageRef = "blog"
+# weight = 3
 
 [[main]]
 name = "projects"
