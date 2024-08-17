@@ -9,3 +9,5 @@ loop=true >}}
 hey there!
 welcome to my blog :)
 {{< /typeit >}}
+
+posts soon™
