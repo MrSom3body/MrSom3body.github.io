@@ -1,2 +1,5 @@
+/.direnv/
+/pgdata/*
+/.data/
 public
 resources
