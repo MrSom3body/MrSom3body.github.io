@@ -6,8 +6,13 @@ description: "a bit of me"
 showDate: false
 showReadingTime: false
 showWordCount: false
+showTableOfContents: false
 ---
 
-I'm currently studying IT at the [HTL Rennweg](https://htl.rennweg.at/) in Austria (the land without kangaroos, btw). I’m a 17-year-old that loves tinkering with Linux, programming and doing fitness.
+## Hello, world
 
-I have been programming in Python since I was 13 years old. Shortly after, I also switched to Linux because… yeah, why? I don’t really know, either, but anyway after I stopped feeling like a hacker every time I updated my system, I started to actually get to know Linux or more specifically Fedora. Now I’m constantly working on perfecting my setup, as you can see in my [dotfiles](https://github.com/MrSom3body/dotfiles/).
+I'm Karun, and I'm excited to welcome you to my blog. I'm currently studying network technology at the [HTL Rennweg](https://htl.rennweg.at/) in Vienna, Austria.
+
+I'm quite passionate about technology, especially Linux and programming. Furthermore, I've been using **Linux** and programming in **Python** since 2020. As expected, I've learned a lot during this time, and I'm excited to share some of my experiences and thoughts with you. After starting at HTL Rennweg, I learned **Java**, **networking**, and many other things.
+
+So, what can you expect from this blog? I'll be writing about programming, Linux, and technology in general. It will be a mix of tutorials, guides, and personal experiences. Hopefully, there's something for everyone, whether you're a beginner or an expert.
