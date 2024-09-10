@@ -1,31 +1,27 @@
 {
-  description = "virtual environments";
+  description = "Nix flake for my homepage";
 
-  inputs.devshell.url = "github:numtide/devshell";
-  inputs.flake-utils.url = "github:numtide/flake-utils";
-
-  inputs.flake-compat = {
-    url = "github:edolstra/flake-compat";
-    flake = false;
+  inputs = {
+    nixpkgs.url = "github:nixos/nixpkgs/nixos-unstable";
   };
 
-  outputs =
-    {
-      self,
-      flake-utils,
-      devshell,
-      nixpkgs,
-      ...
-    }:
-    flake-utils.lib.eachDefaultSystem (system: {
-      devShells.default =
-        let
-          pkgs = import nixpkgs {
-            inherit system;
+  outputs = {nixpkgs, ...}: let
+    system = "x86_64-linux";
+  in {
+    devShells."${system}".default = let
+      pkgs = import nixpkgs {
+        inherit system;
+      };
+    in
+      pkgs.mkShell {
+        name = "MrSom3body.github.io";
+        packages = with pkgs; [
+          hugo
+        ];
 
-            overlays = [ devshell.overlays.default ];
-          };
-        in
-        pkgs.devshell.mkShell { imports = [ (pkgs.devshell.importTOML ./devshell.toml) ]; };
-    });
+        shellHook = ''
+          echo "hugo: $(hugo version)"
+        '';
+      };
+  };
 }
