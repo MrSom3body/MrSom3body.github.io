@@ -31,7 +31,8 @@ I am in my third year of the Information Technology program at <a href="https://
 
 ## certificates ✍️
 
-| Certificate                                                                                      | Institution | Date       |
-| ------------------------------------------------------------------------------------------------ | ----------- | ---------- |
-| EDLRIS - Artificial Intelligence Basic for Trainees                                              | OCG         | 29.03.2023 |
-| [ Crash Course on Python ](https://www.coursera.org/account/accomplishments/verify/LVLHNUEHPW4J) | Coursera    | 05.05.2024 |
+| Certificate                                                                                                         | Institution | Date       |
+| ------------------------------------------------------------------------------------------------------------------- | ----------- | ---------- |
+| EDLRIS - Artificial Intelligence Basic for Trainees                                                                 | OCG         | 29.03.2023 |
+| [ Crash Course on Python ](https://www.coursera.org/account/accomplishments/verify/LVLHNUEHPW4J)                    | Coursera    | 05.05.2024 |
+| [ Using Python to Interact with the Operating System ](https://coursera.org/share/112f89fed844aee966ceb6142aa6bc25) | Coursera    | 13.09.2024 |
