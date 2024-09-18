@@ -11,3 +11,5 @@ welcome to my blog :)
 {{< /typeit >}}
 
 posts soon™
+
+<a rel="me" href="https://mastodon.social/@MrSom3body"></a>
