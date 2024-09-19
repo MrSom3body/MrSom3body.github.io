@@ -17,7 +17,8 @@ headline = "a random dude on the internet"
 bio = "A passionate programmer with great interest in Linux."
 links = [
   { github = "https://github.com/MrSom3body" },
-  { instagram = "https://instagram.com/karun.snd" },
   { linkedin = "https://www.linkedin.com/in/karun-sandhu/" },
+  { matrix = "https://matrix.to/#/@mrsom3body:matrix.org" },
   { mastodon = "https://mastodon.social/@MrSom3body" },
+  { discord = "https://discord.com/users/598851082902306826" },
 ]
