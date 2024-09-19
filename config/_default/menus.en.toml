@@ -31,6 +31,24 @@ name = "projects"
 pageRef = "projects"
 weight = 4
 
+[[main]]
+pre = "discord"
+identifier = "discord"
+url = "https://discord.com/users/598851082902306826"
+weight = 5
+
+[[main]]
+pre = "matrix"
+identifier = "matrix"
+url = "https://matrix.to/#/@mrsom3body:matrix.org"
+weight = 6
+
+[[main]]
+pre = "github"
+identifier = "github"
+url = "https://github.com/MrSom3body"
+weight = 7
+
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
 # the copyright notice. Configure as per the main menu above.
