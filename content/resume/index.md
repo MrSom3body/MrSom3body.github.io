@@ -2,7 +2,7 @@
 title: "resume"
 date: 2024-02-14
 draft: false
-description: "Learn more about my projects"
+description: "My resume with my professional experiences, education and my certificates"
 showDate: false
 showReadingTime: false
 showWordCount: false
