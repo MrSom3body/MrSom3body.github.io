@@ -10,7 +10,7 @@ rtl = false
 dateFormat = "2 January 2006"
 description = "MrSom3body's little world"
 
-[author]
+[params.author]
 name = "MrSom3body"
 image = "https://github.com/MrSom3body.png"
 headline = "a random dude on the internet"
