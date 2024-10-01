@@ -13,7 +13,7 @@ groupByYear: false
 
 These are my [NixOS](https://nixos.org) dotfiles. NixOS is a very different
 kind of Linux distribution, but I'm too lazy to write an article about it
-(yet), so here's a [quick introduction](https://youtu.be/FJVFXsNzYZQ) from
+(yet), so here's a [quick introduction](https://youtu.be/FJVFXsNzYZQ) by
 [Fireship](https://www.youtube.com/@Fireship).
 {{< github repo="MrSom3body/dotfiles" >}}
 
