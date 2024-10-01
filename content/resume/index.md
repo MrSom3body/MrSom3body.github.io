@@ -26,5 +26,5 @@ showWordCount: false
 | Certificate                                                                                                         | Institution | Date       |
 | ------------------------------------------------------------------------------------------------------------------- | ----------- | ---------- |
 | EDLRIS - Artificial Intelligence Basic for Trainees                                                                 | OCG         | 29.03.2023 |
-| [ Crash Course on Python ](https://www.coursera.org/account/accomplishments/verify/LVLHNUEHPW4J)                    | Coursera    | 05.05.2024 |
-| [ Using Python to Interact with the Operating System ](https://coursera.org/share/112f89fed844aee966ceb6142aa6bc25) | Coursera    | 13.09.2024 |
+| [ Crash Course on Python ](https://www.coursera.org/account/accomplishments/verify/LVLHNUEHPW4J)                    | Google      | 05.05.2024 |
+| [ Using Python to Interact with the Operating System ](https://coursera.org/share/112f89fed844aee966ceb6142aa6bc25) | Google      | 13.09.2024 |
