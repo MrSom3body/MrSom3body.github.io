@@ -6,7 +6,7 @@
 # https://blowfish.page/docs/configuration/#theme-parameters
 #
 
-colorScheme = "forest"
+colorScheme = "avocado"
 defaultAppearance = "dark"   # valid options: light or dark
 autoSwitchAppearance = false
 
