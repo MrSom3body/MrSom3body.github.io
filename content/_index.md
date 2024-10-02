@@ -8,6 +8,9 @@ breakLines=false
 loop=true >}}
 hey there!
 welcome to my blog :)
+hey there!
+welcome to my blog :)
+never gonna give you up
 {{< /typeit >}}
 
 posts soon™
