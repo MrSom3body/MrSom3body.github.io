@@ -9,7 +9,7 @@ showWordCount: false
 groupByYear: false
 ---
 
-## nixos
+## dotfiles
 
 These are my [NixOS](https://nixos.org) dotfiles. NixOS is a very different
 kind of Linux distribution, but I'm too lazy to write an article about it
