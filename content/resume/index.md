@@ -10,9 +10,9 @@ showWordCount: false
 
 ## professional experience 💼
 
-| Company                                      | Role                        | Dates                   |
-| -------------------------------------------- | --------------------------- | ----------------------- |
-| [Hitachi Rail](https://www.hitachirail.com/) | Internship: Software Tester | July 2024 - August 2024 |
+| Company                                      | Role              | Dates                   |
+| -------------------------------------------- | ----------------- | ----------------------- |
+| [Hitachi Rail](https://www.hitachirail.com/) | EJR - Engineering | July 2024 - August 2024 |
 
 ## education 👨‍💻
 
