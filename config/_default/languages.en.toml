@@ -1,20 +1,20 @@
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "MrSom3body"
+title = "MrSom3body's Home"
 
 [params]
 displayName = "EN"
 isoCode = "en"
 rtl = false
 dateFormat = "2 January 2006"
-description = "MrSom3body's little world"
+description = "Welcome to MrSom3body's personal homepage, featuring projects, blogs, and insights on Linux and Programming. Explore my portfolio, latest articles, and contact details to learn more about my work and passions."
 
 [params.author]
 name = "MrSom3body"
 image = "https://github.com/MrSom3body.png"
-headline = "a random dude on the internet"
-bio = "A passionate programmer with great interest in Linux."
+headline = "Exploring the world of Linux and programming, one project at a time."
+bio = "A passionate programmer with a strong focus on Linux and open-source software, constantly exploring new technologies."
 links = [
   { github = "https://github.com/MrSom3body" },
   { linkedin = "https://www.linkedin.com/in/karun-sandhu/" },
