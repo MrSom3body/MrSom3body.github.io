@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Karun&#39;s Home</title>
-    <link>karun.sndh.dev/</link>
+    <link>https://karun.sndh.dev/</link>
     <description>Recent content on Karun&#39;s Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Karun Sandhu</copyright>
-    <lastBuildDate>Wed, 14 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="karun.sndh.dev/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 14 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://karun.sndh.dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>about</title>
-      <link>karun.sndh.dev/about/</link>
+      <link>https://karun.sndh.dev/about/</link>
       <pubDate>Wed, 14 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>karun.sndh.dev/about/</guid>
+      <guid>https://karun.sndh.dev/about/</guid>
       <description>Some info about MrSom3body</description>
       
     </item>
     
     <item>
       <title>projects</title>
-      <link>karun.sndh.dev/projects/</link>
+      <link>https://karun.sndh.dev/projects/</link>
       <pubDate>Wed, 14 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>karun.sndh.dev/projects/</guid>
+      <guid>https://karun.sndh.dev/projects/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>resume</title>
-      <link>karun.sndh.dev/resume/</link>
+      <link>https://karun.sndh.dev/resume/</link>
       <pubDate>Wed, 14 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>karun.sndh.dev/resume/</guid>
+      <guid>https://karun.sndh.dev/resume/</guid>
       <description></description>
       
     </item>
